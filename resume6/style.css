@@ -334,6 +334,9 @@ ul.list-sys li {
 
 
 @media (max-width:600px){
+    .link-div {
+        display: initial;
+    }
     .result-div {
         display: initial;
        

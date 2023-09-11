@@ -287,6 +287,9 @@ ul.list3 li {
         margin-left: 0px;
      
     }
+    .container-quali-skill {
+        display: initial;
+    }
 
 
 }
