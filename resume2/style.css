@@ -324,16 +324,12 @@ i.fa-brands.fa-youtube {
     margin-top: 6px;
 }
 audio {
-    padding: 15px;
-    width: 50%;
+    padding: 10px;
 }
 
 
 @media (max-width:600px){
-    audio {
-        padding: 15px;
-        width: 100%;
-    }
+    
     .subscribe-div h2 {
        
         width: 100%;
