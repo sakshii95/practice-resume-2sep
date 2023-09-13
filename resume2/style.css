@@ -144,12 +144,15 @@ input {
     display: flex;
     justify-content: space-between;
 }
+
 .subscribe-div h2 {
+    text-align: center;
     color: white;
-    padding: 6px 13px;
+    padding: 6px;
     font-size: 16px;
     background-color: red;
     border-radius: 22px;
+    width: 50%;
 }
 .left-side h3 {
     color: #db0f0f;
@@ -320,20 +323,17 @@ i.fa-brands.fa-youtube {
 .youtube h3 {
     margin-top: 6px;
 }
-
-
-
-
-
-
-
-
-
-
-
+audio {
+    padding: 15px;
+    width: 50%;
+}
 
 
 @media (max-width:600px){
+    .subscribe-div h2 {
+       
+        width: 100%;
+    }
     .ex-div {
         display: initial;
     }
