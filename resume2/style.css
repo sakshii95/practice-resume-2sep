@@ -330,6 +330,10 @@ audio {
 
 
 @media (max-width:600px){
+    audio {
+        padding: 15px;
+        width: 100%;
+    }
     .subscribe-div h2 {
        
         width: 100%;
