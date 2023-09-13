@@ -229,8 +229,10 @@ span {
     color: #464545;
 }
 .project {
+    justify-content: space-between;
     padding: 1px 17px;
     background-color: #f5e6e9;
+    display: flex;
 }
 .project h3 {
     margin-top: -5px;
@@ -303,6 +305,21 @@ ul.list li {
 .subscribe-div {
     width: 25%;
 }
+.brands.video {
+    align-items: center;
+    display: flex;
+}
+i.fa-brands.fa-youtube {
+    color: red;
+    border-radius: 27px;
+}
+.youtube {
+    align-items: center;
+    display: flex;
+}
+.youtube h3 {
+    margin-top: 6px;
+}
 
 
 
@@ -344,6 +361,9 @@ ul.list li {
     .menu-div {
         display: initial;
       
+    }
+    .project {
+        display: initial;
     }
   
 }
