@@ -234,8 +234,11 @@ span {
 .project {
     justify-content: space-between;
     padding: 1px 17px;
-    background-color: #f5e6e9;
     display: flex;
+}
+.project-sys {
+    padding: 9px;
+    background-color: #ffe9ed;
 }
 .project h3 {
     margin-top: -5px;
@@ -331,7 +334,7 @@ audio {
 @media (max-width:600px){
     
     .subscribe-div h2 {
-       
+       margin-top: 26px;
         width: 100%;
     }
     .ex-div {
@@ -341,7 +344,24 @@ audio {
         flex-wrap: initial;
      
     }
-
+    .brands.video {
+      
+        display: initial;
+    }
+    .las-div h3 {
+        width: 60%;
+       
+    }
+    .change-div h3 {
+        width: 30%;
+       
+    }
+    audio {
+        padding: 0px;
+    }
+    .country-div h2 {
+        margin-top: 38px;
+    }
     .navbar {
         display: initial;
     }
