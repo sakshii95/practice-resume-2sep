@@ -176,6 +176,19 @@ ul.list4 li {
     border: 1px solid grey;
     width: 25%;
 }
+.profile a {
+    font-family: sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    color: #0a90e1;
+    font-weight: 600;
+}
+.resume-section h2 {
+    font-size: 22px;
+}
+.profile h3 {
+    color: #343232;
+}
 
 @media(max-width:600px){
     .best-software {

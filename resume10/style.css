@@ -311,6 +311,11 @@ i.fas.fa-play {
     color: black;
     background: white;
 }
+.profile a {
+    font-size: 21px;
+    text-decoration: none;
+    color: white;
+}
 
 @media(max-width:600px){
     i.fas.fa-play {

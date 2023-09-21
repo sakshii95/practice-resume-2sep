@@ -183,6 +183,16 @@ ul.list-sys li {
     font-size: 20px;
 
 }
+.profile a {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: #cf0b0b;
+    font-weight: 600;
+}
+.resume-section h2 {
+    font-size: 22px;
+}
 
 
 

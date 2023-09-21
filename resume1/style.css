@@ -172,8 +172,33 @@ ul.list2 li {
     padding: 9px;
 
 }
+.resume-section h2 {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 29px;
+}
+
+.resume-section a {
+    font-size: 22px;
+    text-decoration: none;
+}
+.profile {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    margin-top: -18px;
+}
+.resume-section {
+    padding: 10px;
+    background-color: #dddbdb;
+    margin-top: 30px;
+}
 
 @media(max-width:600px){
+    .profile {
+        display: initial;
+      
+    }
     .second-div {
         width: 100%;
     }

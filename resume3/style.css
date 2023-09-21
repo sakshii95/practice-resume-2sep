@@ -41,6 +41,7 @@
 }
 .container-quali-skill {
     display: flex;
+    justify-content: space-evenly;
 }
 .box {
     align-items: center;
@@ -245,8 +246,40 @@ ul.list3 li {
     margin-top: 10px;
     list-style-type: none;
 }
+.profile {
+    margin-bottom: 10px;
+    justify-content: space-between;
+    display: flex;
+    margin-top: -23px;
+}
+.profile a {
+    font-size: 22px;
+    text-decoration: none;
+    color: #0486a5;
+}
+
+.resume-section h2 {
+    font-size: 27px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.resume-section {
+    margin-top: 23px;
+    padding: 8px;
+    background-color: white;
+    border-radius: 10px;
+}
+.profile h3 {
+    margin-bottom: 3px;
+    margin-top: 12px;
+    font-family: sans-serif;
+    font-size: 21px;
+}
 
 @media (max-width:600px){
+    .profile {
+        display: initial;
+    }
     
     .container-tesla h2 {
         margin-left: 0px;

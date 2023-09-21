@@ -320,18 +320,22 @@ ul.list-sys li {
     font-size: 21px;
     text-decoration: underline;
 }
-
-
-
-
-
-
-
-
-
-
-
-
+.link-list-sys {
+    padding: 13px;
+}
+.profile a {
+    font-family: sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    color: #0a90e1;
+    font-weight: 600;
+}
+.resume-section h2 {
+    font-size: 22px;
+}
+.profile h3 {
+    color: #343232;
+}
 
 @media (max-width:600px){
     .link-div {
@@ -361,7 +365,7 @@ ul.list-sys li {
       
     }
     .present-div {
-       
+        margin-left: 0px;
         width: 100%;
         }
     .software-div {
