@@ -1,0 +1,403 @@
+body{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    
+    }
+    .shadow{
+        margin: auto;
+        max-width: 1100px;
+        border: 1px solid rgb(250, 246, 246);
+    }
+    .main-div{
+        margin: 30px;
+
+    }
+   
+    .nav-sys {
+        color: white;
+        background-color: #333187;
+        padding: 10px;
+    }
+   
+    .mail-div a {
+        margin-left: 27px;
+        color: #0bb5f7;
+        font-size: 16px;
+    }
+    .div-sys {
+        padding: 9px;
+    }
+   
+    /* navbar-div */
+    .navbar {
+        justify-content: space-between;
+        display: flex;
+        align-items: center;
+    }
+    .navbar h1 {
+        font-family: sans-serif;
+        font-size: 24px;
+        color: #ed3030;
+    }
+    
+    /* .border-lenght1 {
+        width: 8%;
+        border-bottom: 3px solid #c12020;
+    } */
+   
+    .link-mail {
+        justify-content: space-evenly;
+        display: flex;
+    }
+    .country-div h4 {
+        margin-top: -10px;
+        color: #565454;
+        font-size: 16px;
+    }
+    .mail-div h3 {
+        color: #565454;
+        font-size: 16px;   
+    }
+    
+    .link-mail h5 {
+        margin-top: -10px;
+        color: #565454;
+        font-size: 16px;
+    }
+    .country-div h3 {
+        font-size: 13px;
+        border-radius: 22px;
+        padding: 8px 24px;
+        color: white;
+        background-color: blue;
+    }
+
+    .para-div {
+        padding: 14px;
+        font-weight: 500;
+        font-family: ui-sans-serif;
+        font-size: 17px;
+        color: #444343;
+        background-color: #eceff3;
+    }
+    .para-div1 {
+        padding: 12px;
+        background-color: white;
+    }
+   
+    .right-div {
+        color: white;
+        background-color: #25769b;
+        width: 50%;
+        padding: 13px;
+    }
+    .training-div {
+        padding: 9px;
+        width: 100%;
+        display: flex;
+        margin-top: 5px;
+    }
+    .training-box-sys {
+        background-color: #eceff3;
+    }
+    .join-sep-div {
+        display: flex;
+    }
+    .border-lenght {
+        border-bottom: 1px solid white;
+    }
+   
+    .container-elect h1 {
+        font-size: 22px;
+    }
+    .right-div h1 {
+        font-size: 22px;
+
+    }
+    .container-elect1 h1 {
+        font-size: 22px;
+    }
+
+   
+    .container-left h2 {
+        font-size: 16px;
+        margin-top: 9px;
+        margin-bottom: -13px;
+    }
+   
+    .container-left h4 {
+        text-align: center;
+        border-radius: 6px;
+        color: black;
+        padding: 7px;
+        background-color: white;
+        width: 20%;
+    }
+   
+   
+    .box {
+        display: flex;
+        padding: 4px;
+    }
+
+    .box h5 {
+        margin-bottom: 18px;
+        color: white;
+        margin-left: 5px;
+        padding: 9px 15px;
+        border: none;
+        margin-top: 9px;
+        font-size: 13px;
+        background-color: #d51515;
+        border-radius: 7px;
+    }
+    .year-div {
+        align-items: center;
+        display: flex;
+    }
+    .year-div h3 {
+        font-size: 16px;
+        color: #cf2b2b;
+        margin-left: 33px;
+    }
+    
+   
+    .tech-div-management {
+        display: flex;
+        align-items: center;
+    }
+   
+    .left-side {
+        justify-content: space-between;
+        display: flex;
+        align-items: center;
+    }
+   
+
+    .tech-div h3 {
+        font-family: sans-serif;
+        font-size: 19px;
+        color: #088383;   
+    }
+    .year-div h3 {
+        font-size: 16px;
+        color: #3aabab;
+    }
+    
+   
+    .footer {
+        text-align: center;
+        padding: 1px;
+        color: white;
+        background-color: #0923a3;
+    }
+    
+  
+    .tech-div-management h4 {
+        margin-left: 17px;
+        border-radius: 6px;
+        font-size: 16px;
+        padding: 9px;
+        color: white;
+        background-color: #eb5050;
+    }
+    
+    .tech-div-management h5 {
+        margin-left: 20px;
+        font-size: 15px;
+        color: #444343;
+    }
+   
+    ul.list3 li {
+        color: #4e4d4d;
+        font-size: 17px;
+        margin-top: 13px;
+        list-style-type: none;
+    }
+   
+   
+    ul.list1 li {
+        margin-top: 12px;
+        list-style-type: none;
+        color: #565050;
+        font-family: serif;
+    }
+   
+    .tech-div {
+        margin-top: 24px;
+    }
+   
+    .project1 h1 {
+        font-family: sans-serif;
+        color: black;
+        font-weight: 600;
+        font-size: 22px;
+    }
+    .project {
+        margin-bottom: 24px;
+        margin-top: 0px;
+        padding: 13px;
+        background-color: white;
+    }
+   
+.prediction-div {
+    margin-top: 36px;
+}
+ 
+    ul.lis2 li {
+        color: #2e2e2e;
+        margin-top: 11px;
+        list-style-type: none;
+    }
+    ul.list1 li {
+        margin-top: 12px;
+        list-style-type: none;
+        color: white;
+        font-family: serif;
+    }
+    .prediction-div p {
+        font-weight: 600;
+        font-size: 18px;
+        color: white;
+        margin-left: 30px;
+    }
+    
+    .prediction-div p {
+        margin-bottom: -14px;
+        margin-top: 18px;
+        font-weight: 600;
+        font-size: 18px;
+        color: #d12b2b;
+        margin-left: 41px;
+    }
+   
+   
+    .year-div h5 {
+        color: #2da172;
+        font-size: 17px;
+    }
+   
+    .exp-div h1 {
+        font-weight: 600;
+        font-family: sans-serif;
+        font-size: 21px;
+    }
+    .container-left {
+        display: flex;
+    }
+    .join-div {
+        display: flex;
+    }
+    
+    .container-elect {
+        color: white;
+        background-color: #21207e;
+        width: 50%;
+        padding: 13px;
+    }
+    .project h1 {
+        font-family: sans-serif;
+        color: black;
+        font-weight: 600;
+        font-size: 22px;
+    }
+li {
+    padding: 6px;
+    background-color: white;
+    border: 1px solid;
+}
+
+
+ul.list3 {
+    padding: 9px;
+    background-color: #0646a7;
+}
+.list1 li.list-sys {
+    color: #4e4e4e;
+    font-size: 18px;
+    border: none;
+    margin-bottom: -12px;
+}
+i.fas.fa-play {
+    padding: 4px 5px;
+    border: 1px solid black;
+}
+    
+    @media (max-width:600px) {
+        .container-left {
+            display: initial;
+
+        }
+        
+        .join-div {
+            display: initial;
+        }
+        .prediction-div p {
+            margin-left: 0px;
+        }
+      
+        .left-side {
+            display: initial;
+        }
+        .left-side {
+          
+            display: initial;
+        }
+        .tech-div-management {
+            display: initial;
+        }
+        .tech-div-management h4 {
+            margin-left: 0px;
+        }
+        .navbar {
+            display: initial;
+          
+        }
+        .join-sep-div {
+            display: initial;
+        }
+        .link-mail {
+            display: initial;
+        }
+        
+        .box {
+            display: initial;
+        }
+    
+        .right-div {
+            width: 100%;
+            padding: 0px;
+        }
+    
+        .training-div {
+           
+            display: initial;
+        }
+        
+        .year-div h3 {
+            margin-left: 0px;
+        }
+        .container-elect {
+            width: 100%;
+            padding: 0px;
+
+        }
+        .border-lenght1 {
+            width: 100%;
+          
+        }
+        .project {
+         padding: 0px;
+        }
+        .mail-div a {
+            margin-left: 0px;
+           
+        }
+        .main-div {
+            max-width: 100%;
+           
+        }
+        
+    }
