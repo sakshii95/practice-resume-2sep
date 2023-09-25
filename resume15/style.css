@@ -1,0 +1,408 @@
+.home-page{
+    max-width: 1100px;
+        margin: auto;
+        display: table; 
+        border: 1px solid rgb(233, 231, 231);
+}
+.main-div{
+    margin: 20px;
+}
+
+.details2 {
+    display: flex;
+}
+.big-container {
+    margin-left: 29px;
+}
+.mail-div {
+    display: flex;
+    margin-left: 380px;
+}
+.navbar {
+    display: flex;
+}
+.mail-div {
+    display: flex;
+}
+.mail-div h4 {
+    margin-left: 15px;
+}
+.details h1 {
+    color: #0f0f52;
+    font-family: sans-serif;
+    font-size: 21px;
+}
+.details1 h3 {
+    padding: 6px;
+    border-radius: 14px;
+    border: 1px solid;
+    font-size: 20px;
+    background-color: white;
+}
+
+.link-mail {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.select-bar {
+    display: flex;
+}
+.mail-div h4 {
+    color: #525151;
+    font-size: 16px;
+}
+
+select {
+    background-color: white;
+    color: red;
+    border: none;
+}
+.select-bar h3 {
+    color: #4a4949;
+    text-align: center;
+    font-size: 16px;
+}
+
+.select-bar {
+    border-radius: 5px;
+    align-items: center;
+    height: 23px;
+    border: 1px solid #b5acac;
+    width: 15%;
+    padding: 5px;
+}
+.select-bar1 h3 {
+    color: #4a4949;
+    text-align: center;
+    font-size: 16px;
+}
+.select-bar1 {
+    border-radius: 5px;
+    align-items: center;
+    height: 23px;
+    display: flex;
+    border: 1px solid #b5acac;
+    width: 25%;
+    padding: 5px;
+}
+
+
+.para-div {
+    color: white;
+    background-color: #235cb1;
+    text-align: center;
+    padding: 7px;
+}
+
+.training-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.box-container h2 {
+    margin-bottom: 29px;
+    margin-top: 20px;
+}
+ 
+
+
+.third-div h2 {
+    margin-top: 6px;
+    margin-bottom: -4px;
+    font-size: 20px;
+    color: #4b22eb;
+}
+
+.first-div h1 {
+    font-size: 22px;
+}
+.second-div h1 {
+    font-size: 22px;
+}
+.container-left h2 {
+    color: #141414;
+    font-size: 16px;
+}
+.container-left h3 {
+    color: #625f5f;
+    font-size: 16px;
+}
+
+.container-left h4 {
+    color: #cd3c3c;
+}
+.right-div h5 {
+    margin-bottom: -6px;
+}
+.third-div h5 {
+    margin-bottom: 20px;
+}
+
+.box-container h2 {
+    color: #cd3c3c;
+    font-size: 16px;
+
+}
+.right-div {
+    width: 30%;
+    padding: 6px;
+    border: 2px solid #ed9595;
+    margin-left: 15px;
+    border-radius: 5px;
+    height: 340px;
+}
+.third-div {
+    height: 340px;
+    border: 2px solid #ed9595;
+    margin-left: 14px;
+    padding: 6px;
+    border-radius: 5px;
+    width: 30%;
+}
+.container-left {
+    border: 2px solid #ed9595;
+    padding: 6px;
+    border-radius: 5px;
+    height: 340px;
+}
+
+.first-div {
+    width: 35%;
+}
+.second-div {
+    width: 35%;
+}
+
+.link-list h4 {
+    font-size: 17px;
+    color: #4a4848;
+}.left-side {
+    justify-content: space-between;
+    display: flex;
+}
+.tech-div-management {
+    display: flex;
+}
+.exp-div h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 26px;
+}
+.left-side {
+    justify-content: space-between;
+    display: flex;
+  
+}
+.year-div h3 {
+    font-size: 17px;
+    color: #0b96a5;
+}
+
+
+.tech-div-management h4 {
+    margin-left: 17px;
+    font-size: 12px;
+    padding: 9px 15px;
+    color: white;
+    background-color: #0749ad;
+}
+.tech-div-management h5 {
+    margin-left: 20px;
+    font-size: 15px;
+    color: #444343;
+}
+.tech-div-management h3 {
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #2bd6e7;
+}
+.tech-div {
+    border-radius: 6px;
+    border: 1px solid #5087ed;
+    margin-top: 18px;
+}
+
+
+ul.list1 li {
+    margin-top: 12px;
+    list-style-type: none;
+    color: #565050;
+    font-family: serif;
+}
+
+
+.right-div h2 {
+    margin-top: 6px;
+    margin-bottom: -4px;
+    font-size: 20px;
+    color: #1525f3;
+}
+.project1 h1 {
+    font-family: sans-serif;
+    color: black;
+    font-weight: 500;
+    font-size: 22px;
+    text-align: center;
+
+}
+.project1{
+    margin-top: 14px;
+    padding: 1px;
+
+}
+.border-lenght1 {
+    border-bottom: 1px solid #e12f2f;
+}
+
+
+.project h1 {
+    font-family: sans-serif;
+    color: black;
+    font-weight: 500;
+    font-size: 22px;
+    text-align: center;
+}
+.project {
+    margin-top: 14px;
+    padding: 1px;
+}
+
+ul.list1 li {
+    margin-left: -23px;
+    font-size: 16px;
+    color: #6c6868;
+}
+ul.list li {
+    list-style-type: none;
+    color: #0a53a1;
+    margin-top: 11px;
+}
+
+.prediction-div {
+    margin-top: 13px;
+    border-radius: 4px;
+    border: 2px solid #dddada;
+    background-color: #413f9d;
+}
+ul.list2 li {
+    margin-top: 12px;
+    list-style-type: none;
+    color: white;
+    font-family: serif;
+}
+.prediction-div p {
+    font-weight: 600;
+    font-size: 18px;
+    color: #00adff;
+    margin-left: 30px;
+}
+.mid-div {
+    display: flex;
+    align-items: center;
+}
+.second-div{
+    margin-left: 68px;
+}
+
+.second-div h2 {
+    font-size: 22px;
+ 
+}
+
+
+
+ @media (max-width: 768px) {
+    .training-div {
+        display: initial;
+    }
+
+
+.container-left {
+   height: 100%;
+    width: 100%;
+}
+.right-div {
+    width: 100%;
+    margin-left: 0px;
+}
+
+.third-div {
+    height: 100px;
+    margin-left: 0px;
+    width: 100%;
+}
+
+    .second-div  {
+        margin-left: 0px;
+    }
+    .mid-div {
+        display:initial;
+    }
+    .link-mail {
+        display: initial;
+        flex-direction: column;
+    }
+    .details2 {
+        flex-direction: column;
+        display: initial;
+    }
+    
+    .big-container {
+        margin-left: 0;
+        margin-top: 15px;
+    }
+    
+    .mail-div {
+        margin-left: 0;
+        flex-direction: column;
+      display: initial;
+    }
+    
+    .select-bar,
+    .select-bar1 {
+        width: 100%;
+        margin-right: 0;
+    }
+
+  
+
+    .first-div,
+    .second-div,
+    .third-div {
+        width: 100%;
+        height: 100%;
+    }
+    .right-div, .third-div {
+        width: 100%;
+        height: 100%;
+        margin-top: 10px;
+    }
+
+    
+    .tech-div-management {
+        display: initial;
+    }
+.tech-div-management h5 {
+    margin-left: 0px;
+ 
+}
+.tech-div-management h4 {
+    margin-left: 0px;
+
+    
+}
+.left-side {
+    display: initial;
+}
+ul.list1 li {
+    margin-left: 0px;
+}
+.navbar {
+    display: initial;
+}
+.second-div {
+    width: 100%;
+}
+} 

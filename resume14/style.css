@@ -1,0 +1,372 @@
+
+  
+    .homepage {
+        margin: 20px;
+      
+    }
+    .shadow {
+        max-width: 1100px;
+        margin: auto;
+         border: 1px solid #d9d6d6;
+    }
+
+    .navbar-div {
+        align-items: center;
+        font-size: 15px;
+        color: #048d04;
+        background-color: yellow;
+        justify-content: space-evenly;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .link-list {
+        margin-left: 32px;
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .menu-bar {
+        display: flex;
+        align-items: center;
+    }
+   
+input[type="text"] {
+    width: 35%;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+    padding: 13px;
+        margin-left: 18px;
+    
+}
+
+.first-div {
+    color: white;
+    background-color: #02405c;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 11px;
+}
+.delivery-location {
+    color: white;
+    justify-content: space-between;
+    display: flex;
+    background-color: #04045c;
+}
+
+
+.sep-div1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sep-div2 {
+    justify-content: space-between;
+    margin-top: -32px;
+    margin-bottom: -12px;
+    display: flex;
+}
+.sep-div1 h3 {
+    font-size: 15px;
+    margin-left: 35px;
+}
+.container-big {
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.right-side-div h4 {
+    color: #464646;
+    font-family: cursive;
+}
+.right-side-div h3 {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.all-div {
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+}
+.all-div h5 {
+    color: #087ba7;
+    font-size: 15px;
+    margin-bottom: -5px;
+}
+
+.left-side-div {
+    width: 70%;
+}
+.text-div1 h3 {
+    font-size: 16px;
+}
+
+.right-side-div h2 {
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.right-side-div {
+    width: 29%;
+}
+ul.list-sys li {
+    color: #363535;
+    font-size: 16px;
+}
+li.list3 {
+    font-size: 16px;
+    color: #125fa1;
+    margin-top: 6px;
+}
+.container-candidate {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.container-stream {
+    display: flex;
+}
+.detail {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+.left-side-div h5 {
+    font-size: 18px;
+   
+}
+
+.div-compare {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin-top: -20px;
+    flex-wrap: wrap;
+}
+.first-side-compare {
+    display: flex;
+}
+.first-side-compare h3 {
+    color: #057a95;
+    font-size: 18px;
+}
+.first-side-compare h3 {
+    color: #057a95;
+    font-size: 18px;
+    margin-left: 11px;
+}
+.add-div h3 {
+    border-radius: 7px;
+    padding: 8px 32px;
+    background-color: #f5f506f7;
+    font-size: 14px;
+}
+.left-side-div h4 {
+    color: green;
+    margin-top: -9px;
+}
+.container-software {
+    display: flex;
+    margin-bottom: 17px;
+
+}
+.text-div {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text-div1 {
+    margin-bottom: -20px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -18px;
+}
+.container-academic h2 {
+    margin-bottom: -12px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.container-achievement h2 {
+    margin-bottom: -12px;
+    font-family: sans-serif;
+    font-size: 18px;
+ 
+
+}
+.container-achievement {
+    border-radius: 7px;
+    background-color: #1a1a5e;
+    width: 50%;
+    color: white;
+    margin-top: 10px;
+    margin-left: 17px;
+    padding: 9px;
+}
+
+.present-div {
+    width: 50%;
+    padding: 10px;
+    color: white;
+    background-color: #1a1a5e;
+    margin-left: 13px;
+    border-radius: 9px;
+    margin-bottom: 19px;
+}
+
+.left-side-div p {
+    color: #403e3e;
+    font-size: 16px;
+    margin-top: -16px;
+}
+
+.text-div h2 {
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.text-div h3 {
+    color: #e7e6e6;
+    margin-left: 41px;
+    font-size: 15px;
+}
+ul.list4 li {
+    margin-left: -33px;
+    list-style: none;
+    margin-top: 15px;
+}
+
+span.dark-text h2 {
+    padding: 9px;
+    margin: auto;
+    color: white;
+    background-color: red;
+    font-family: sans-serif;
+    font-size: 19px;
+    text-align: center;
+    width: 25%;
+}
+
+.project-container {
+    display: flex;
+    margin-top: 17px;
+   
+}
+.container-academic {
+    background-color: #1a1a5e;
+    width: 50%;
+    color: white;
+    padding: 7px;
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+
+ul.list-type1 li {
+    margin-left: -34px;
+    list-style-type: none;
+}
+span.dark {
+    padding: 6px;
+    font-size: 17px;
+    color: white;
+    background-color: red;
+}
+.detail {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+.detail h2 {
+    text-decoration: underline;
+    font-family: sans-serif;
+    color: #0470cd;
+    font-size: 26px;
+}
+.container-stream h3 {
+    margin-bottom: -4px;
+    margin-top: -5px;
+    background-color: #ede8e8;
+    border-radius: 7px;
+    margin-left: 9px;
+    color: #066ed9;
+    font-size: 15px;
+    padding: 8px 14px;
+    border: 1px solid #c7c3c3;
+    font-family: sans-serif;
+}
+.detail h3 {
+    color: #0560d1;
+    font-family: sans-serif;
+}
+.container-righr-side h2 {
+    font-size: 25px;
+    font-weight: 500;
+    text-decoration: underline;
+}
+span.light-div {
+    color: #363636;
+    padding: 4px 33px;
+    border: 1px solid;
+    font-size: 15px;
+}
+@media (max-width:600px){
+    .container-stream h3 {
+        margin-left: 0px;
+       
+    }
+    ul.list-type1 li {
+        margin-left: 0px;
+    }
+    
+    .left-side-div {
+        width: 100%;
+    }
+    .link-list {
+        margin-left: 0px;
+       
+    }
+    .left-side-div {
+        margin-left: 0px;
+    
+    }
+    
+    ul.list-type1 li {
+        margin-left: 0px;
+    }
+    .container-achievement {
+margin-left: 0px;
+        width: 100%;
+    }
+    .link-list {
+        margin-left: 0px;
+
+    }
+  
+    .container-big {
+        display: initial;
+    }
+    .container-software {
+        display: initial;
+    }
+    .present-div {
+      width: 100%;
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .project-container {
+        display: initial;
+    }
+    .container-academic {
+        width: 100%;
+    }
+    .right-side-div {
+        width: 100%;
+    }
+   
+}
+

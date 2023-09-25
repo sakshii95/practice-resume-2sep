@@ -1,0 +1,282 @@
+body{
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+.shadow{
+    max-width: 1100px;
+    margin: auto;
+    border: 1px solid rgb(212, 211, 211);
+}
+.top-container-home{
+    margin: 15px;
+}
+
+
+.navbar-row {
+   
+}
+.navbar-row1 {
+    color: white;
+    background-color: #df3434;
+    padding: 10px;
+
+}
+.profile a {
+    color: #e54949;
+    font-size: 24px;
+    text-decoration: none;
+}
+.resume-section h2 {
+    font-family: sans-serif;
+    font-size: 28px;
+}
+
+.btn-div h4 {
+    border-radius: 26px;
+    padding: 1px 18px;
+    border: 1px solid;
+}
+
+
+.next-row {
+    display: flex;
+}
+
+.next-row h4 {
+    margin-left: 15px;
+    margin-left: 12;
+    margin-left: 1;
+    font-weight: 500;
+    color: #4e4d4d;
+    font-size: 20px;
+}
+
+.border-lenght {
+    margin-bottom: -5px;
+    border-bottom: 1px solid grey;
+}
+.second-row h4 {
+    margin-left: 7px;
+    margin-top: 7px;
+    font-weight: 500;
+    color: #5e5c5c;
+    font-size: 20px;
+}
+.second-row h1 {
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-top: -18px;
+    margin-bottom: 8px;
+}
+.reviews {
+    margin-top: -51px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-seprate h4 {
+    margin-top: -13px;
+    font-weight: 500;
+    font-size: 20px;
+    color: #4a4747;
+}
+.navbar-row h3 {
+    color: white;
+}
+ul.list li {
+    margin-top: 11px;
+    color: #504b4b;
+    font-size: 21px;
+    list-style-type: none;
+}
+ul.list2 li {
+    color: #3a3838;
+    font-size: 19px;
+}
+.container-elect h3 {
+    color: #565454;
+    font-size: 21px;
+    margin-bottom: -12px;
+    font-weight: 500;
+}
+button.cart-div {
+    font-size: 21px;
+    border: none;
+    border-radius: 9px;
+    padding: 13px 28px;
+    background-color: red;
+    color: white;
+}
+.container-seprate-box {
+    display: flex;
+}
+p {
+    font-size: 19px;
+    color: #484646;
+}
+ul.list1 li {
+    margin-top: 16px;
+    color: #525050;
+    font-size: 18px;
+}
+h3 {
+    font-weight: 600;
+    color: #3c3b3b;
+    font-size: 21px;
+}
+.container-right h2 {
+    font-family: sans-serif;
+    font-size: 22px;
+}
+span.light {
+    font-weight: 500;
+    color: #424141;
+}
+
+.container-right h1 {
+    font-family: sans-serif;
+    font-size: 27px;
+    color: #141313;
+}
+
+.container-right p {
+    font-weight: 600;
+    color: #766a6a;
+    font-size: 16px;
+}
+
+.container-elect h2 {
+    font-family: sans-serif;
+    color: #403f3f;
+    font-size: 15px;
+}
+.container-right h3 {
+    font-family: sans-serif;
+    font-size: 19px;
+}
+.container-elect h2 {
+    margin-bottom: -20px;
+    margin-top: -9px;
+    font-family: sans-serif;
+    color: #2c2b2b;
+    font-size: 18px;
+}
+.container-left h1 {
+    margin-top: 17px;
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-bottom: 13px;
+}
+
+
+/* font */
+.one-row {
+    display: flex;
+}
+.one-row h5 {
+    border-radius: 7px;
+    padding: 6px 11px;
+    background-color: white;
+    margin-left: 12px;
+    font-weight: 500;
+    font-size: 17px;
+    margin-top: 13px;
+    border: 1px solid; 
+}
+.two-row h5{
+    border-radius: 7px;
+    padding: 6px 11px;
+    background-color: white;
+    margin-left: 12px;
+    font-weight: 500;
+    font-size: 17px;
+    margin-top: 13px;
+    border: 1px solid;
+
+}
+.box h5 {
+    border-radius: 7px;
+    padding: 6px 11px;
+    background-color: white;
+    margin-left: 12px;
+    font-weight: 500;
+    font-size: 17px;
+    margin-top: 13px;
+    border: 1px solid;
+}
+.jbtn-div {
+    display: flex;
+}
+
+.jbtn-div h5{
+    border-radius: 7px;
+    padding: 6px 11px;
+    background-color: white;
+    margin-left: 12px;
+    font-weight: 500;
+    font-size: 17px;
+    margin-top: -11px;
+    border: 1px solid;
+
+}
+
+.box {
+    display: flex;
+}
+.one-row {
+    display: flex;
+}
+
+.two-row {
+    margin-top: -24px;
+    display: flex;
+    margin-bottom: -3px;
+}
+.container-left {
+    width: 40%;
+}
+.container-right {
+    width: 60%;
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width:600px){
+    .one-row {
+        display: initial;
+    }
+    .container-left {
+        width: 100%;
+    }
+    .container-right {
+        width: 100%;
+    }
+    .reviews {
+        display: initial;
+    }
+    
+    .container-seprate-box {
+        display: initial;
+    }
+    .navbar-row {
+        display: initial
+    }
+    .next-row {
+        display: initial;
+    }
+    .two-row {
+        display: initial;
+      
+    }
+   
+}
