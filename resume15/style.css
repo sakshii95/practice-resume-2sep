@@ -310,10 +310,28 @@ ul.list2 li {
     font-size: 22px;
  
 }
+.resume-section {
+    text-align: center;
+    margin-top: 11px;
+    border: 2px solid #f78f8f;
+    border-radius: 10px;
+}
+.profile {
+    justify-content: space-evenly;
+    display: flex;
+}
+.profile a {
+    color: #e54949;
+    font-size: 24px;
+    text-decoration: none;
+}
 
 
 
  @media (max-width: 768px) {
+    .profile {
+        display: initial;
+    }
     .training-div {
         display: initial;
     }

@@ -314,7 +314,32 @@ span.light-div {
     border: 1px solid;
     font-size: 15px;
 }
+.profile a {
+  color: white;
+    font-size: 24px;
+    text-decoration: none;
+}
+.resume-section h2 {
+    font-family: sans-serif;
+    font-size: 28px;
+}
+.resume-section {
+    background-color: #0b0568;
+    color: white;
+    text-align: center;
+}
+.resume-section h2 {
+    text-align: center;
+}
+.profile {
+    justify-content: space-evenly;
+    display: flex;
+}
+
 @media (max-width:600px){
+    .profile {
+        display: initial;
+    }
     .container-stream h3 {
         margin-left: 0px;
        
