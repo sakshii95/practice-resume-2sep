@@ -111,12 +111,11 @@ body{
         font-weight: 600;
         font-size: 30px;
     }
-    
+
     .another.div {
         border-radius: 14px;
-        padding: 17px;
+        padding: 5px;
         border: 1px solid #e3d9d9;
-     
     }
     
     .another.div p {

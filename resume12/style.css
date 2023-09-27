@@ -32,16 +32,17 @@ input.search-input {
 .search-icon {
     color: black;
 }
-.navbar{
-height: 60px;
-color: white;
-background-color: black;
-display: flex;
-justify-content: space-between;
-
+.navbar {
+    height: 60px;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
-
-
+.navbar-list {
+background-color: black;
+}
 .container-box-btn {
     color: white;
     background-color: #2c2b2b;
