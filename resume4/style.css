@@ -245,6 +245,9 @@ span.dark-text h2 {
     text-align: center;
     width: 25%;
 }
+.right-side-div {
+    width: 100%;
+}
 
 .project-container {
     display: flex;

@@ -357,6 +357,10 @@ span.light-text {
 }
 
 @media(max-width:600px){
+    .deal-save p {
+        
+        width: 100%;
+    }
     .sep-div2 h3 {
         margin-left: 0px;
     }
