@@ -238,9 +238,11 @@ ul.list2 li {
     font-size: 16px;
     color: #424141;
 }
+
 ul.list3 {
+    border-radius: 9px;
     background-color: white;
-    padding: 18px;
+    padding: 6px;
 }
 
 
@@ -268,7 +270,7 @@ ul.list3 li {
 }
 .resume-section {
     margin-top: 23px;
-    padding: 8px;
+    padding: 4px;
     background-color: white;
     border-radius: 10px;
 }
@@ -331,6 +333,10 @@ ul.list3 li {
     }
     .container-tesla {
         display: initial;
+    }
+    .container-prediction p {
+        margin-left: 0px;
+       
     }
 
 
