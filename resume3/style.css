@@ -92,13 +92,15 @@
     padding: 5px;
     border-radius: 10px;
     border: 1px solid #dbd8d8;
+    width: 100%;
 }
+
 .border1-div {
     background-color: white;
-    padding: 10px;
+    padding: 5px;
     border-radius: 10px;
     border: 1px solid #dbd8d8;
-
+    width: 100%;
 }
 .edu-div h3 {
     font-size: 16px;
@@ -325,6 +327,9 @@ ul.list3 li {
         display: initial;
     }
     .container-left {
+        display: initial;
+    }
+    .container-tesla {
         display: initial;
     }
 
