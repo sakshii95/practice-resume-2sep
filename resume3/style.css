@@ -9,7 +9,7 @@
 
 
 .container-home-div {
-    margin: 20px;
+    margin: 15px;
    
 }
 .details h3 {
@@ -32,7 +32,7 @@
 .para-div {
     border-radius: 10px;
     border: 2px solid #e99b0d;
-    padding: 10px;
+    padding: 4px;
     margin-top: 16px;
 }
 .para-div p {
@@ -89,7 +89,7 @@
 }
 .right-div {
     background-color: white;
-    padding: 10px;
+    padding: 5px;
     border-radius: 10px;
     border: 1px solid #dbd8d8;
 }
@@ -215,7 +215,7 @@ ul.list1 li {
 }
 .container-prediction {
     border-radius: 8px;
-    padding: 7px;
+    padding: 4px;
     background-color: white;
 }
 ul.list2 li {
@@ -322,6 +322,9 @@ ul.list3 li {
      
     }
     .container-quali-skill {
+        display: initial;
+    }
+    .container-left {
         display: initial;
     }
 
