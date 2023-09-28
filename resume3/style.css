@@ -117,16 +117,24 @@
     font-size: 15px;
 }
 
+.navbar1 {
+    background-color: white;
+    border: 1px solid #e1dfdf;
+    width: 60%;
+    display: table;
+    margin: auto;
+    padding: 5px;
+    border-radius: 10px;
+}
 
-.navbar {
+/* .navbar {
     border-radius: 10px;
     width: 60%;
     display: table;
-    border: 1px solid #e1dfdf;
     margin: auto;
-    padding: 10px;
-    background-color: white;
-}
+    padding: 5px;
+   
+} */
 .details {
   
     justify-content: space-between;
@@ -338,6 +346,7 @@ ul.list3 li {
         margin-left: 0px;
        
     }
+
 
 
 }
